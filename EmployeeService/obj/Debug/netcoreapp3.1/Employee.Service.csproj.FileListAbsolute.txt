@@ -1,0 +1,10 @@
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\EmployeeService\bin\Debug\netcoreapp3.1\Employee.Service.deps.json
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\EmployeeService\bin\Debug\netcoreapp3.1\Employee.Service.dll
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\EmployeeService\bin\Debug\netcoreapp3.1\Employee.Service.pdb
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\EmployeeService\obj\Debug\netcoreapp3.1\Employee.Service.csproj.AssemblyReference.cache
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\EmployeeService\obj\Debug\netcoreapp3.1\Employee.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\EmployeeService\obj\Debug\netcoreapp3.1\Employee.Service.AssemblyInfoInputs.cache
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\EmployeeService\obj\Debug\netcoreapp3.1\Employee.Service.AssemblyInfo.cs
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\EmployeeService\obj\Debug\netcoreapp3.1\Employee.Service.csproj.CoreCompileInputs.cache
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\EmployeeService\obj\Debug\netcoreapp3.1\Employee.Service.dll
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\EmployeeService\obj\Debug\netcoreapp3.1\Employee.Service.pdb

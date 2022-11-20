@@ -1,0 +1,16 @@
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\bin\Debug\netcoreapp3.1\Employee.Migrations.deps.json
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\bin\Debug\netcoreapp3.1\Employee.Migrations.runtimeconfig.json
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\bin\Debug\netcoreapp3.1\Employee.Migrations.runtimeconfig.dev.json
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\bin\Debug\netcoreapp3.1\Employee.Migrations.dll
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\bin\Debug\netcoreapp3.1\Employee.Migrations.pdb
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\bin\Debug\netcoreapp3.1\EmployeeModel.dll
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\bin\Debug\netcoreapp3.1\EmployeeModel.pdb
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\obj\Debug\netcoreapp3.1\Employee.Migrations.csproj.AssemblyReference.cache
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\obj\Debug\netcoreapp3.1\Employee.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\obj\Debug\netcoreapp3.1\Employee.Migrations.AssemblyInfoInputs.cache
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\obj\Debug\netcoreapp3.1\Employee.Migrations.AssemblyInfo.cs
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\obj\Debug\netcoreapp3.1\Employee.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\obj\Debug\netcoreapp3.1\Employee.Migrations.csproj.CopyComplete
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\obj\Debug\netcoreapp3.1\Employee.Migrations.dll
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\obj\Debug\netcoreapp3.1\Employee.Migrations.pdb
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Migrations\obj\Debug\netcoreapp3.1\Employee.Migrations.genruntimeconfig.cache

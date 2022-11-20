@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2102c23-5520-4419-aced-a495870099c4": {
+      "ProjectGuid": "e2102c23-5520-4419-aced-a495870099c4",
+      "DisplayName": "Employee.Migrations",
+      "ColorIndex": 0
+    },
+    "79e2966b-b3d6-4a00-a4ae-fe982f7e8957": {
+      "ProjectGuid": "79e2966b-b3d6-4a00-a4ae-fe982f7e8957",
+      "DisplayName": "EmployeeModel",
+      "ColorIndex": 1
+    },
+    "bd16244c-5c3b-4c2d-a276-7b62e9f0daf6": {
+      "ProjectGuid": "bd16244c-5c3b-4c2d-a276-7b62e9f0daf6",
+      "DisplayName": "Employee.Service",
+      "ColorIndex": 2
+    },
+    "1f891534-660d-44a4-bde2-0d91e119c3c4": {
+      "ProjectGuid": "1f891534-660d-44a4-bde2-0d91e119c3c4",
+      "DisplayName": "Employee.Api",
+      "ColorIndex": 3
+    },
+    "cf16b2ec-4b6c-4df3-a787-1bb6f7bab05f": {
+      "ProjectGuid": "cf16b2ec-4b6c-4df3-a787-1bb6f7bab05f",
+      "DisplayName": "Employee.Api",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
