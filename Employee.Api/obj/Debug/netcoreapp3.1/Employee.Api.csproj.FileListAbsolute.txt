@@ -69,3 +69,5 @@ C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Api\obj\Deb
 C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.dll
 C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.pdb
 C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.genruntimeconfig.cache
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Service.dll
+C:\Users\Sumayya Uthman\Documents\Big-Applications\Employee\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Service.pdb
