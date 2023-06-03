@@ -1534,6 +1534,16 @@
           "bin/placeholder/Employee.Migrations.dll": {}
         }
       },
+      "Employee.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Employee.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employee.Service.dll": {}
+        }
+      },
       "EmployeeModel/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -5665,6 +5675,11 @@
       "path": "../Employee.Migrations/Employee.Migrations.csproj",
       "msbuildProject": "../Employee.Migrations/Employee.Migrations.csproj"
     },
+    "Employee.Service/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeService/Employee.Service.csproj",
+      "msbuildProject": "../EmployeeService/Employee.Service.csproj"
+    },
     "EmployeeModel/1.0.0": {
       "type": "project",
       "path": "../EmployeeModel/EmployeeModel.csproj",
@@ -5674,6 +5689,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Employee.Migrations >= 1.0.0",
+      "Employee.Service >= 1.0.0",
       "Microsoft.AspNetCore.Http.Abstractions >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.10",
@@ -5711,6 +5727,9 @@
           "projectReferences": {
             "C:\\Users\\Sumayya Uthman\\Documents\\Big-Applications\\Employee\\Employee.Migrations\\Employee.Migrations.csproj": {
               "projectPath": "C:\\Users\\Sumayya Uthman\\Documents\\Big-Applications\\Employee\\Employee.Migrations\\Employee.Migrations.csproj"
+            },
+            "C:\\Users\\Sumayya Uthman\\Documents\\Big-Applications\\Employee\\EmployeeService\\Employee.Service.csproj": {
+              "projectPath": "C:\\Users\\Sumayya Uthman\\Documents\\Big-Applications\\Employee\\EmployeeService\\Employee.Service.csproj"
             }
           }
         }

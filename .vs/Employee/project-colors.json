@@ -25,6 +25,11 @@
       "ProjectGuid": "cf16b2ec-4b6c-4df3-a787-1bb6f7bab05f",
       "DisplayName": "Employee.Api",
       "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 5
