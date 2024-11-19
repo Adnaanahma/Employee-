@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Employee.Migrations\Employee.Migrations.csproj" />
+    <ProjectReference Include="..\EmployeeService\Employee.Service.csproj" />
   </ItemGroup>
 
 
